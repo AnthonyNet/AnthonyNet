@@ -28,7 +28,7 @@
   ### ✨Portfolio:✨
 
  <details>
-  <summary>LearnLanguagesApp ENG/GER/CZE </summary>
+  <summary>LearnLanguagesApp ENG/GER/CZE</summary>
 
 <p align="center">
 <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
