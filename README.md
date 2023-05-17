@@ -3,7 +3,7 @@
   <img align="center" src="https://stats-readme-flax.vercel.app/api/top-langs/?username=anthonynet&langs_count=13" />
 </a>
 
-<p align="center">
+<p align="center" style="margin: 10px 0px -20px 0px;">
 
 <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
