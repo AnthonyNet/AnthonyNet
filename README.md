@@ -25,7 +25,7 @@
 </p>
 
 ***
-  ## ✨Portfolio:✨
+  # ✨Portfolio:✨
 
  <details>
   <summary>LearnLanguagesApp ENG/GER/CZE</summary>
