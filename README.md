@@ -23,7 +23,7 @@
 <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img width="80px" height="32px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" />
+<img width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" />
 
 </p>
 
@@ -53,6 +53,18 @@
   - 👀 [React, Bootstrap](https://react-languages.vercel.app/ "Visit legacy page")
 </details>
 
+<details>
+  <summary> Landing pages </summary>
+
+
+|Morbus Tschengi|Simple Chat|Firebase TODO|
+| :-------------: | :-------------: | :-------------: |
+|<img width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" /> |<img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> |<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />                                                                                           |
+|<img src="./images/Autoservis.png" width="200"></img>|<img src="./images/Chat.png" width="200"></img>|<img src="./images/Firebase.png" width="200"></img>|
+|[Visit Site Here](https://koncern-servis.plasmic.run/)|[Visit Site Here](https://chatter-eta.vercel.app/)|[Visit Site Here](https://todo-firebase-lake.vercel.app/)|
+
+
+ </details>
 
  <details>
   <summary> Astro TS Web | Firebase Chat | TODO </summary>
