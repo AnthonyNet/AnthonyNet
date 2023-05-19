@@ -82,30 +82,17 @@
 
  </details>
 
- <details>
-  <summary>Projects in ENG DE CZ </summary>
 
-|Cosmos-TUTORIAL|Cmder Resume| First Resume |
-| :-------------:|:-------------:|:------------:|
-|<img width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />       | <img align="center" width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />       <img align="center" width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />               |<img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> |
-|<img src="./images/Cosmos.png" width="200">                       | <img src="./images/Cmder.png" width="200"></img>                                |<img src="./images/FirstCV.png" width="200"></img>                               |
-|[Visit Site Here](https://cosmos-flax.vercel.app/)    | [Visit Site Here](https://cv-11-2022.vercel.app/)    |[Visit Site Here](https://my-old-cv.vercel.app/) |
-
-</details>
 
  <details>
-  <summary>Simple WebPages </summary>
+  <summary>Legacy</summary>
 
-**Client´s request: use his images with completely different resolutions and quality**
-
-
- |Craftsman´s Web|Craftsman´s OldW|
+ |Learn languages|CV React|
 | :-------------:|:-------------:|
 |<img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />                            <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                  <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />                                  | <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />                                |
-| <img src="https://github.com/AnthonyZet/Resume/blob/main/src/components/portfolio/img/learn3.png?raw=true" width="350"></img>                                          | <img src="https://github.com/AnthonyZet/Resume/blob/main/src/components/portfolio/img/learn4.png?raw=true" width="300"></img>                                                                                     |
-| [Visit Site Here](https://react-remeslnik.vercel.app/ )    | [Visit Site Here](https://remeslnik2.vercel.app/)    |
+| <img src="./images/languages-old.png" width="350"></img>                                          | <img src="./images/react-cv-old.png" width="300"></img>                                                                                     |
+| [Visit Site Here](https://react-languages.vercel.app/english-Irregular-Verbs)    | [Visit Site Here](https://resume-one-rosy.vercel.app/experience)    |
 
- [👀 My Old Resume-React 2022](https://resume-one-rosy.vercel.app "Visit resume 2022")
 
  [👀 Next.js resumé / **Under Construction&Broken**](https://next-js-resume-six.vercel.app/ )
 
