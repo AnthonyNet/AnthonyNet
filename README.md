@@ -84,7 +84,7 @@
  |Learn languages|CV React|
 | :-------------:|:-------------:|
 |<img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />                            <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                  <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                                  | <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />                                |
-| <img src="./images/languages-old.png" width="350"></img>                                          | <img src="./images/react-cv-old.png" width="300"></img>                                                                                     |
+| <img src="./images/languages-old.png" width="200"></img>                                          | <img src="./images/react-cv-old.png" width="200"></img>                                                                                     |
 | [Visit Site Here](https://react-languages.vercel.app/english-Irregular-Verbs)    | [Visit Site Here](https://resume-one-rosy.vercel.app/experience)    |
 
 
