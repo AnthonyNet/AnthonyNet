@@ -57,11 +57,11 @@
   <summary> Landing pages </summary>
 
 
-|Morbus Tschengi|Simple Chat|Firebase TODO|
+|Morbus Tschengi|Simple Chat|Morbus Tschengi|
 | :-------------: | :-------------: | :-------------: |
 |<img width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" /> |<img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> |<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />                                                                                           |
-|<img src="./images/Autoservis.png" width="200"></img>|<img src="./images/Chat.png" width="200"></img>|<img src="./images/Firebase.png" width="200"></img>|
-|[Visit Site Here](https://koncern-servis.plasmic.run/)|[Visit Site Here](https://chatter-eta.vercel.app/)|[Visit Site Here](https://todo-firebase-lake.vercel.app/)|
+|<img src="./images/Autoservis.png" width="195"></img>|<img src="./images/FirstCV.png" width="200"></img>|<img src="./images/MorbusTschengi.png" width="200"></img>|
+|[Visit Site Here](https://koncern-servis.plasmic.run/)|[Visit Site Here](https://my-old-cv.vercel.app/)|[Visit Site Here](https://morbus-tschengi.vercel.app/)|
 
 
  </details>
