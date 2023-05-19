@@ -46,7 +46,6 @@
  <img src="./images/LanguagesBTC.png" width="150"></img>                                                                                                              <img src="./images/LanguagesPagination.png" width="150"></img>
 </a></p>
 
-
 </details>
 
 <details>
