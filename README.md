@@ -47,10 +47,7 @@
 </a></p>
 
 
-  Legacy of Learn languages App
-   -👀 [React JavaScript](https://languages-tailwind.vercel.app/ "Visit legacy page")
-  - 👀 [NodeJS Express Bootstrap Sass](https://learn-english-and-deutsch.vercel.app/ "Visit legacy page")
-  - 👀 [React, Bootstrap](https://react-languages.vercel.app/ "Visit legacy page")
+
 </details>
 
 <details>
