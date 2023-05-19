@@ -6,7 +6,6 @@
 ***
 
 <p align="center">
-
 <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -113,5 +112,3 @@
 ![Anthony´s GitHub stats](https://stats-readme-flax.vercel.app/api?username=anthonynet&show_icons=true&theme=transparent)
 
 <p> Profile visits: <br> <img src="https://profile-counter.glitch.me/anthonyzet/count.svg" /></p>
-
-
