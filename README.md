@@ -1,10 +1,4 @@
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://stats-readme-flax.vercel.app/api/top-langs/?username=anthonynet&langs_count=13" />
-</a>
-
 ***
-
 
 <p align="center">
 <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -26,6 +20,17 @@
 <img width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" />
 
 </p>
+
+***
+
+<div align="center" dir="auto">
+  <a href="https://github.com/JoyceFatima">
+   <img src="https://stats-readme-flax.vercel.app/api/top-langs/?username=anthonynet&langs_count=3" height="200em"/>
+   <img src="https://stats-readme-flax.vercel.app/api?username=anthonynet&show_icons=true&theme=transparent" height="200em" />
+ </a>
+</div>
+
+
 
 ***
   # ✨Portfolio:✨
@@ -87,11 +92,10 @@
  </details>
 
 
-
  <details>
   <summary>Legacy</summary>
 
- |Learn languages|CV React|
+ |Learn languages OLD|CV React|
 | :-------------:|:-------------:|
 |<img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />                            <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                  <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                                  | <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />                                |
 | <img src="./images/languages-old.png" width="200"></img>                                          | <img src="./images/react-cv-old.png" width="200"></img>                                                                                     |
@@ -99,7 +103,6 @@
 
 
  [👀 Next.js resumé / **Under Construction&Broken**](https://next-js-resume-six.vercel.app/ )
-
 
  </details>
 
@@ -117,6 +120,5 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anthonyzet&show_icons=true" />
 </picture> -->
-![Anthony´s GitHub stats](https://stats-readme-flax.vercel.app/api?username=anthonynet&show_icons=true&theme=transparent)
 
 <p> Profile visits: <br> <img src="https://profile-counter.glitch.me/anthonyzet/count.svg" /></p>
