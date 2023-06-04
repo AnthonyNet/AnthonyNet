@@ -72,6 +72,34 @@
 
 </details>
 
+ <details>
+  <summary>Create a developer</summary>
+<p style="font-size: 12px">Introducing a free-of-cost extended Sandpack component for the NaucMeIt project, designed with the sole purpose of assisting others on their programming journey.</p>
+<p align="center">
+<img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</p>
+
+<p align="center">
+ <a href="https://create-a-developer.vercel.app/"><img src="./images/developer.png" width="850"></img>
+
+
+</a>
+</p>
+
+<div align = center>
+
+[![Button Shield]][Shield]
+
+</div>
+
+[Button Shield]: https://img.shields.io/badge/Visit_Project-37a779?style=for-the-badge
+[Shield]: https://create-a-developer.vercel.app/
+
+</details>
+
 <details>
   <summary> Landing pages </summary>
 
