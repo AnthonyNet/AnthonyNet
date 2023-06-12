@@ -63,18 +63,18 @@
 
 <div align = center>
 
-[![Button Shield]][Shield]
+[![Button Shield]][Languages]
 
 </div>
 
 [Button Shield]: https://img.shields.io/badge/Visit_Project-37a779?style=for-the-badge
-[Shield]: https://languages-next-ts.vercel.app/
+[Languages]: https://languages-next-ts.vercel.app/
 
 </details>
 
  <details>
   <summary>Create a developer</summary>
-<p style="font-size: 12px">Introducing a free-of-cost extended Sandpack component for the NaucMeIt project, designed with the sole purpose of assisting others on their programming journey.</p>
+<code>✅Introducing a free-of-cost extended Sandpack component for the NaucMeIt project, designed with the sole purpose of assisting others on their programming journey.</code>
 <p align="center">
 <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -84,19 +84,17 @@
 
 <p align="center">
  <a href="https://create-a-developer.vercel.app/"><img src="./images/developer.png" width="850"></img>
-
-
 </a>
 </p>
 
 <div align = center>
 
-[![Button Shield]][Shield]
+[![Button Shield]][Developer]
 
 </div>
 
 [Button Shield]: https://img.shields.io/badge/Visit_Project-37a779?style=for-the-badge
-[Shield]: https://create-a-developer.vercel.app/
+[Developer]: https://create-a-developer.vercel.app/
 
 </details>
 
