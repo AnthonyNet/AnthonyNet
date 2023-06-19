@@ -54,7 +54,8 @@
 
 <p align="center">
  <a href="https://languages-next-ts.vercel.app/"><img src="./images/LanguagesMenu.png" width="150"></img>
- <img src="./images/LanguagesIrregular.png" width="150"></img>
+ <img src="./images/languages-dark.png" width="150"></img>
+  <img src="./images/languages-dark2.png" width="150"></img>
  <img src="./images/LanguagesBTC.png" width="150"></img>                                                                                                              <img src="./images/LanguagesPagination.png" width="150"></img>
 </a>
 </p>
