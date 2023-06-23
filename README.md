@@ -115,7 +115,7 @@
 
  <details>
   <summary>O Penaltového Krále 2023</summary>
-
+	<code>description</code>
 
 
 <!--
