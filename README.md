@@ -118,7 +118,6 @@
 	<code>description</code>
 
 
-<!--
 <div align = center>
 
 [![Button Shield]][Developer]
@@ -126,8 +125,8 @@
 </div>
 
 [Button Shield]: https://img.shields.io/badge/Visit_Project-37a779?style=for-the-badge
-[Developer]: https://create-a-developer.vercel.app/
--->
+[Developer]: https://github.com/AnthonyNet
+
 </details>
 
  <details>
