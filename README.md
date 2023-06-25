@@ -5,20 +5,19 @@
 <img alt="react"  width="35"  src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" />
 <img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" />
 <img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" />
-<img width="30"  src="https://skillicons.dev/icons?i=next"  alt="nextjs"  />
+<img alt="nextjs" width="30"  src="https://skillicons.dev/icons?i=next" />
 <img alt="firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img alt="astro" width="30px"  src="https://skillicons.dev/icons?i=astro" />
 <img alt="tailwind" width="30px" src="https://camo.githubusercontent.com/edbc72808229088568aceb3e147c8518743f518a4aa679662774701ce275a796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" />
 <img alt="bootstrap"  width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img alt="sass" width="30px"  src="https://camo.githubusercontent.com/16db1acceb11262e7843eead05f096df531372d8da9965cf2c7afb74c7bc188c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73617373" />
-<img alt="github"  width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img alt="markdown"  width="30px"  src="https://skillicons.dev/icons?i=markdown" />
 <img alt="css3" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="html5" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img alt="express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img alt="plasmic" width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" />
 <img alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30px">
-<img alt="github" src="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="35px"  >
+<img alt="github" src="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="35px">
 <img alt="mysql" src="https://camo.githubusercontent.com/b3578157355b1ac74d38d0f89d1022095ba7f7a988db091cef0fa4a62685e87e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="35px"  >
 <img alt="jQuery" src="https://camo.githubusercontent.com/10f562340c9fa9ae83db3341791e263aa39275aaea91ae0bb133b49def2d4c4d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="30px"  >
 <img alt="linux" src="https://skillicons.dev/icons?i=linux" width="30px">
@@ -113,6 +112,23 @@
 |<img src="./images/Remeslnik1.png" width="195"></img>|<img src="./images/remeslnik-old2.png" width="200"></img>|<img src="./images/Cosmos.png" width="200"></img>|
 |[Visit Site Here](https://react-remeslnik.vercel.app/)|[Visit Site Here](https://remeslnik2.vercel.app/)|[Visit Site Here](https://cosmos-flax.vercel.app/)|
  </details>
+
+ <details>
+  <summary>O Penaltového Krále 2023</summary>
+<code>Description</code>
+
+
+<!--
+<div align = center>
+
+[![Button Shield]][Developer]
+
+</div>
+
+[Button Shield]: https://img.shields.io/badge/Visit_Project-37a779?style=for-the-badge
+[Developer]: https://create-a-developer.vercel.app/
+-->
+</details>
 
  <details>
   <summary> Chat | Cmder CV | TODO </summary>
