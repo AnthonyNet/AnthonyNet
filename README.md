@@ -116,7 +116,18 @@
  <details>
   <summary>O Penaltového Krále 2023</summary>
 	<code>description</code>
+<p align="center">
+<img alt="react"  width="35"  src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" />
+<img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" />
+<img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" />
+<img alt="github" src="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="35px" />
+<img alt="tailwind" width="30px" src="https://camo.githubusercontent.com/edbc72808229088568aceb3e147c8518743f518a4aa679662774701ce275a796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" />
+</p>
 
+<p align="center">
+ <a href="https://create-a-developer.vercel.app/"><img alt="github" src="./images/penaltovy-kral.png" /></img>
+</a>
+</p>
 
 <div align = center>
 
