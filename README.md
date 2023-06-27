@@ -115,7 +115,7 @@
 
  <details>
   <summary>O Penaltového Krále 2023</summary>
-	<code>description</code>
+	<code>"A charity event app. This project facilitates the organization and management of a local football tournament, providing features such as individual registration, penalty kicks schedules, live score updates, and results tracking. Developed collaboratively by enthusiastic students, this app aims to support the club's fundraising efforts while enhancing the overall experience for participants and spectators."</code>
 <p align="center">
 <img alt="react"  width="35"  src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" />
 <img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" />
