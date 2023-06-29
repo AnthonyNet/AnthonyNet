@@ -138,7 +138,7 @@
 </div>
 
 [Button Shield]: https://img.shields.io/badge/Visit_Project-37a779?style=for-the-badge
-[Developer]: https://github.com/AnthonyNet
+[Developer]: https://github.com/Nauc-me-IT/penaltovy_kral
 
 </details>
 
