@@ -68,7 +68,7 @@
 </div>
 
 [Button Shield]: https://img.shields.io/badge/Visit_Project-37a779?style=for-the-badge
-[Languages]: https://languages-next-ts.vercel.app/
+[Languages]: https://learn-languages-one.vercel.app/
 
 </details>
 
