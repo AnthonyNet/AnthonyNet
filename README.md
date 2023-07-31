@@ -53,11 +53,11 @@
 </p>
 
 <p align="center">
- <a href="https://languages-next-ts.vercel.app/"><img src="./images/LanguagesMenu.png" width="150"></img></a>
- <a href="https://languages-next-ts.vercel.app/english/irregular-verbs"><img src="./images/languages-dark.png" width="150"></img></a>
- <a href="https://languages-next-ts.vercel.app/german/memory"><img src="./images/languages-dark2.png" width="150"></img></a>
- <a href="https://languages-next-ts.vercel.app/"><img src="./images/LanguagesBTC.png" width="150"></img>   </a>
- <a href="https://languages-next-ts.vercel.app/english/pagination"><img src="./images/LanguagesPagination.png" width="150"></img>
+ <a href="https://languages-next-ts.vercel.app/"><img src="./images/lang-irr.jpeg" width="150"></img></a>
+ <a href="https://languages-next-ts.vercel.app/english/irregular-verbs"><img src="./images/lang-mem.jpeg" width="150"></img></a>
+ <a href="https://languages-next-ts.vercel.app/german/memory"><img src="./images/lang-quiz.jpeg" width="150"></img></a>
+ <a href="https://languages-next-ts.vercel.app/"><img src="./images/lang-flip.jpeg" width="150"></img>   </a>
+ <a href="https://languages-next-ts.vercel.app/english/pagination"><img src="./images/lang-search.jpeg" width="150"></img>
 </a>
 </p>
 
