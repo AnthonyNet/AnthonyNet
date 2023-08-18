@@ -163,9 +163,6 @@
 | <img src="./images/languages-old.png" width="200"></img>                                          | <img src="./images/react-cv-old.png" width="200"></img>                                                                                     | <img src="./images/georgie.png" width="200"></img>
 | [Visit Site Here](https://react-languages.vercel.app/english-Irregular-Verbs)    | [Visit Site Here](https://resume-one-rosy.vercel.app/experience)    | [Visit Site Here](http://learn-languages.great-site.net/English.php)
 
-
- [👀 Next.js resumé / **Under Construction&Broken**](https://next-js-resume-six.vercel.app/ )
-
  </details>
 
 ***
