@@ -72,33 +72,6 @@
 
 </details>
 
- <details>
-  <summary>Create a developer</summary>
-<code>✅Introducing a free-of-cost extended Sandpack component for the NaucMeIt project, designed with the sole purpose of assisting others on their programming journey.</code>
-<p align="center">
-
-<img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" />
-<img width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img alt="react"  width="35"  src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" />
-</p>
-
-<p align="center">
- <a href="https://create-a-developer.vercel.app/"><img src="./images/developer.png" width="850"></img>
-</a>
-</p>
-
-<div align = center>
-
-[![Button Shield]][Developer]
-
-</div>
-
-[Button Shield]: https://img.shields.io/badge/Visit_Project-37a779?style=for-the-badge
-[Developer]: https://create-a-developer.vercel.app/
-
-</details>
-
 <details>
   <summary> Landing pages </summary>
 
@@ -142,6 +115,33 @@
 
 </details>
 
+<details>
+  <summary>Create a developer</summary>
+<code>✅Introducing a free-of-cost extended Sandpack component for the NaucMeIt project, designed with the sole purpose of assisting others on their programming journey.</code>
+<p align="center">
+
+<img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" />
+<img width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img alt="react"  width="35"  src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" />
+</p>
+
+<p align="center">
+ <a href="https://create-a-developer.vercel.app/"><img src="./images/developer.png" width="850"></img>
+</a>
+</p>
+
+<div align = center>
+
+[![Button Shield]][Developer]
+
+</div>
+
+[Button Shield]: https://img.shields.io/badge/Visit_Project-37a779?style=for-the-badge
+[Developer]: https://create-a-developer.vercel.app/
+
+</details>
+
  <details>
   <summary> Chat | Cmder CV | TODO </summary>
 
@@ -162,6 +162,7 @@
 |<img alt="react"  width="35"  src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" />                            <img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" />                  <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                                  | <img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" />                <img  width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />                                | <img  width="30px" alt="" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" /><img  width="30px" alt="" style="padding-right:10px;" src="https://www.geekandjob.com/uploads/wiki/9c5c5609505f745111ebfd93454e437a.png" />
 | <img src="./images/languages-old.png" width="200"></img>                                          | <img src="./images/react-cv-old.png" width="200"></img>                                                                                     | <img src="./images/georgie.png" width="200"></img>
 | [Visit Site Here](https://react-languages.vercel.app/english-Irregular-Verbs)    | [Visit Site Here](https://resume-one-rosy.vercel.app/experience)    | [Visit Site Here](http://learn-languages.great-site.net/English.php)
+
 
  </details>
 
