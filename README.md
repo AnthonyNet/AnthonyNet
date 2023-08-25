@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1000&color=0E4FF7&background=9842FF00&center=true&vCenter=true&width=535&lines=1%2F3+LOADING+EXPERIENCE......;2%2F3+EVOLUTION+IN+PROGRESS......;3%2F3+DOWNLOADING++DEVELOPER......;.....SYSTEM+READY!)](https://git.io/typing-svg)
 
 ***
-<p align="center">
+<a align="center" href="https://github.com/AnthonyNet">
 <img alt="react"  width="35"  src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" />
 <img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" />
 <img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" />
@@ -23,14 +23,14 @@
 <img alt="linux" src="https://skillicons.dev/icons?i=linux" width="30px">
 <img alt="VsCode" src="https://camo.githubusercontent.com/95ee0c74cccf4c61aca7784c67ad967623ee6bb906df94b4b2b36e841f086158/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465"  width="30px">
 <img alt="PHP" src="https://camo.githubusercontent.com/024da5f4ca5e509886f05804b01bcf0edb56d297e3ad5817a8235afb054607f1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870"   width="30px" >
-</p>
+</a>
 
 
 
 ***
 
 <div align="center" dir="auto">
-  <a href="https://github.com/JoyceFatima">
+  <a href="https://github.com/AnthonyNet">
    <img src="https://stats-readme-flax.vercel.app/api/top-langs/?username=anthonynet&langs_count=3" height="200em"/>
    <img src="https://stats-readme-flax.vercel.app/api?username=anthonynet&show_icons=true&theme=transparent" height="200em" />
  </a>
