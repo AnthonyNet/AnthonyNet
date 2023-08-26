@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1000&color=0E4FF7&background=9842FF00&center=true&vCenter=true&width=535&lines=1%2F3+LOADING+EXPERIENCE......;2%2F3+EVOLUTION+IN+PROGRESS......;3%2F3+DOWNLOADING++DEVELOPER......;.....SYSTEM+READY!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1000&color=0E4FF7&background=9842FF00&center=true&vCenter=true&width=535&lines=1%2F3+LOADING+EXPERIENCE......;2%2F3+EVOLUTION+IN+PROGRESS......;3%2F3+DOWNLOADING++DEVELOPER......;.....SYSTEM+READY!)](https://github.com/AnthonyNet)
 
 ***
 <a align="center" href="https://github.com/AnthonyNet">
