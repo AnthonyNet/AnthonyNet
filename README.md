@@ -74,10 +74,11 @@
 <details>
   <summary> Landing pages </summary>
 
-|  Koncern Servis |  First Portfolio  |  Morbus Tschengi  |
+| F13 Cybertech | Koncern Servis |  First Portfolio  |
 | :-----: | :-----: | :----: |
-| <img width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" /> | <img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" /> | <img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" /> <img  width="30px" alt="markdown" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> <img  width="30px" alt="astro" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJGmPEAm0NGXoJB9FP2whD8XVdy9LolEWVw&usqp=CAU" /> |
-|  <img src="./images/Autoservis.png" width="195"></img>   |  <img src="./images/FirstCV.png" width="200"></img>  | <img src="./images/MorbusTschengi.png" width="200"></img>||  [Visit Site Here](https://koncern-servis.plasmic.run/) | [Visit Site Here](https://my-old-cv.vercel.app/) | [Visit Site Here](https://morbus-tschengi.vercel.app/)|
+| <img width="30px" alt="nextjs" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" /> <img alt="builder.io" width="80px" height="30px" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdcd545fcda9c4be796889bf072cf72e9"> | <img width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" /> | <img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" /> |
+| <img src="./images/f13.png" width="190"></img> | <img src="./images/Autoservis.png" width="195"></img>   |  <img src="./images/FirstCV.png" width="200"></img>  |
+| [Visit Site Here](https://www.f13cybertech.cz/) | [Visit Site Here](https://koncern-servis.plasmic.run/) | [Visit Site Here](https://my-old-cv.vercel.app/) |
 
 |Morbus Tschengi | Craftsman | Craftsman 2 |
 | :-------: | :---------: | :--: |
