@@ -72,6 +72,10 @@
 </details>
 
 <details>
+	<summary> Elin.AI FE Sprint </summary>
+</details>
+
+<details>
   <summary> Landing pages </summary>
 
 | F13 Cybertech | Koncern Servis |  First Portfolio  |
