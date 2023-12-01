@@ -15,9 +15,6 @@
 <img alt="markdown"  width="30px"  src="https://skillicons.dev/icons?i=markdown" />
 <img alt="css3" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="html5" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="builder.io" width="80px" height="30px" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdcd545fcda9c4be796889bf072cf72e9">
-<img alt="shadCN"  width="115" style="margin-bottom: 5px"  src="/images/shadCN.png" />
-<img alt="plasmic" width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" />
 <img alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30px">
 <img alt="github" src="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="35px">
 <img alt="mysql" src="https://camo.githubusercontent.com/b3578157355b1ac74d38d0f89d1022095ba7f7a988db091cef0fa4a62685e87e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="35px"  >
@@ -27,6 +24,14 @@
 <img alt="PHP" src="https://camo.githubusercontent.com/024da5f4ca5e509886f05804b01bcf0edb56d297e3ad5817a8235afb054607f1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870"   width="30px" >
 <img alt="express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </a>
+<p align="center">
+
+<img alt="builder.io" width="80px" height="30px" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdcd545fcda9c4be796889bf072cf72e9">
+<img alt="supabase" width="110px" height="30px" src="/images/supabase.png">
+<img alt="shadCN"  width="115" style="margin-bottom: 5px"  src="/images/shadCN.png" />
+<img alt="plasmic" width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" />
+
+</p>
 
 ---
 
