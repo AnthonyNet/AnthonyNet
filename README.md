@@ -82,7 +82,7 @@
 <p align="center">
 <img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" />
 <img alt="nextjs" width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img  alt="tailwind" width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img alt="tailwind" width="30"  src="https://skillicons.dev/icons?i=tailwind" />
 <img alt="react"  width="35"  src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
 <img alt="shadCN"  width="115" style="margin-bottom: 5px"  src="/images/shadCN.png" />
 </p>
