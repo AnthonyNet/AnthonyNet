@@ -136,12 +136,12 @@
 
 <div align = center>
 
-[![Button Shield]][Developer]
+[![Button Shield]][Penalty]
 
 </div>
 
 [Button Shield]: https://img.shields.io/badge/Visit_Project-37a779?style=for-the-badge
-[Developer]: https://github.com/Nauc-me-IT/penaltovy_kral
+[Penalty]: https://github.com/Nauc-me-IT/penaltovy_kral
 
 </details>
 
