@@ -79,7 +79,14 @@
 
 <details>
 	<summary> Elin.AI FE Sprint </summary>
-
+<p align="center">
+<img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" />
+<img alt="nextjs" width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img  alt="tailwind" width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img alt="react"  width="35"  src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" />
+<img alt="builder.io" width="80px" height="30px" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdcd545fcda9c4be796889bf072cf72e9">
+<img alt="shadCN"  width="115" style="margin-bottom: 5px"  src="/images/shadCN.png" />
+</p>
 <p align="center">
  <a href="https://www.elin.ai/"><img src="./images/ElinAI.png" width="250"></img></a>
 </a>
@@ -100,7 +107,7 @@
 
 | F13 Cybertech | Koncern Servis |  First Portfolio  |
 | :-----: | :-----: | :----: |
-|  NDA | <img width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" /> | <img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" /> |
+|  <p align="center"><img alt="builder.io" width="80px" height="30px" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdcd545fcda9c4be796889bf072cf72e9"><img alt="shadCN"  width="115" style="margin-bottom: 5px"  src="/images/shadCN.png" /></p><p><img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" /><img alt="nextjs" width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /><img  alt="tailwind" width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><img alt="react"  width="35"  src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" /></p> | <img width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" /> | <img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" /> |
 | <img src="./images/f13.png" width="190"></img> | <img src="./images/Autoservis.png" width="195"></img>   |  <img src="./images/FirstCV.png" width="200"></img>  |
 | [Visit Site Here](https://www.f13cybertech.cz/) | [Visit Site Here](https://koncern-servis.plasmic.run/) | [Visit Site Here](https://my-old-cv.vercel.app/) |
 
