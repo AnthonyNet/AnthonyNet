@@ -2,7 +2,7 @@
 
 ---
 
-<a align="center" href="https://github.com/AnthonyNet">
+<p align="center" href="https://github.com/AnthonyNet">
 <img alt="react"  width="35"  src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
 <img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" />
 <img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" />
@@ -23,7 +23,7 @@
 <img alt="VsCode" src="https://camo.githubusercontent.com/95ee0c74cccf4c61aca7784c67ad967623ee6bb906df94b4b2b36e841f086158/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465"  width="30px">
 <img alt="PHP" src="https://camo.githubusercontent.com/024da5f4ca5e509886f05804b01bcf0edb56d297e3ad5817a8235afb054607f1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870"   width="30px" >
 <img alt="express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-</a>
+</p>
 <p align="center">
 
 <img alt="builder.io" width="80px" height="30px" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdcd545fcda9c4be796889bf072cf72e9">
