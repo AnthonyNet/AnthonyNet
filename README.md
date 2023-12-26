@@ -84,7 +84,6 @@
 <img alt="nextjs" width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img  alt="tailwind" width="30px" alt="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img alt="react"  width="35"  src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
-<img alt="builder.io" width="80px" height="30px" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdcd545fcda9c4be796889bf072cf72e9">
 <img alt="shadCN"  width="115" style="margin-bottom: 5px"  src="/images/shadCN.png" />
 </p>
 <p align="center">
