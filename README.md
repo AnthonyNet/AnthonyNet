@@ -9,19 +9,19 @@
 <img alt="nextjs" width="30"  src="https://skillicons.dev/icons?i=next" />
 <img alt="firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img alt="astro" width="30px"  src="https://skillicons.dev/icons?i=astro" />
-<img alt="tailwind" width="30px" src="https://camo.githubusercontent.com/edbc72808229088568aceb3e147c8518743f518a4aa679662774701ce275a796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" />
+<img alt="tailwind" width="30"  src="https://skillicons.dev/icons?i=tailwind" />
 <img alt="bootstrap"  width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img alt="sass" width="30px"  src="https://camo.githubusercontent.com/16db1acceb11262e7843eead05f096df531372d8da9965cf2c7afb74c7bc188c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73617373" />
+<img alt="sass" width="30"  src="https://skillicons.dev/icons?i=sass" />
 <img alt="markdown"  width="30px"  src="https://skillicons.dev/icons?i=markdown" />
 <img alt="css3" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="html5" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="Git" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60px">
+<img alt="git" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60px">
 <img alt="github" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35px">
 <img alt="mysql" src="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="35px"  >
-<img alt="jQuery" src="https://camo.githubusercontent.com/10f562340c9fa9ae83db3341791e263aa39275aaea91ae0bb133b49def2d4c4d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="30px"  >
+<img alt="jquery" width="30"  src="https://skillicons.dev/icons?i=jquery" />
 <img alt="linux" src="https://skillicons.dev/icons?i=linux" width="30px">
-<img alt="VsCode" src="https://camo.githubusercontent.com/95ee0c74cccf4c61aca7784c67ad967623ee6bb906df94b4b2b36e841f086158/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465"  width="30px">
-<img alt="PHP" src="https://camo.githubusercontent.com/024da5f4ca5e509886f05804b01bcf0edb56d297e3ad5817a8235afb054607f1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870"   width="30px" >
+<img alt="vscode" width="30"  src="https://skillicons.dev/icons?i=vscode" />
+<img alt="php" width="30"  src="https://skillicons.dev/icons?i=php" />
 <img alt="express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </p>
 <p align="center">
