@@ -4,8 +4,8 @@
 
 <p align="center" href="https://github.com/AnthonyNet">
 <img alt="react"  width="35"  src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
-<img  alt="typescript"  width="40" src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" />
-<img alt="javascript"  width="40"  src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" />
+<img  alt="typescript"  width="40" src="https://skillicons.dev/icons?i=typescript" />
+<img alt="javascript"  width="40"  src="https://skillicons.dev/icons?i=javascript" />
 <img alt="nextjs" width="30"  src="https://skillicons.dev/icons?i=next" />
 <img alt="firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img alt="astro" width="30px"  src="https://skillicons.dev/icons?i=astro" />
@@ -17,7 +17,7 @@
 <img alt="html5" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img alt="git" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60px">
 <img alt="github" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35px">
-<img alt="mysql" src="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="35px"  >
+<img alt="mysql" src="https://skillicons.dev/icons?i=mysql" width="35px"  >
 <img alt="jquery" width="30"  src="https://skillicons.dev/icons?i=jquery" />
 <img alt="linux" src="https://skillicons.dev/icons?i=linux" width="30px">
 <img alt="vscode" width="30"  src="https://skillicons.dev/icons?i=vscode" />
@@ -29,7 +29,7 @@
 <img alt="builder.io" width="80px" height="30px" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdcd545fcda9c4be796889bf072cf72e9">
 <img alt="supabase" width="110px" height="30px" src="/images/supabase.png">
 <img alt="shadCN"  width="115" style="margin-bottom: 5px"  src="/images/shadCN.png" />
-<img alt="plasmic" width="80px" height="30px" src="https://seeklogo.com/images/P/plasmic-logo-E16F65B4E1-seeklogo.com.png" />
+<img alt="plasmic" width="80px" height="30px" src="https://miro.medium.com/v2/resize:fit:912/1*ENfy3BZSwvsfQ8m7uGI6cA.png" />
 
 </p>
 
