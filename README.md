@@ -35,11 +35,11 @@
 
 ---
 
-<div align="center" dir="auto">
+<div align="center">
   <a href="https://github.com/AnthonyNet">
-   <img src="https://stats-readme-cw32utn3o-anthonynet.vercel.app/api/top-langs/?username=anthonynet&langs_count=3" height="200em"/>
-   <img src="https://stats-readme-cw32utn3o-anthonynet.vercel.app/api?username=anthonynet&show_icons=true&theme=transparent" height="200em" />
- </a>
+    <img src="https://stats-readme-flax.vercel.app/api/top-langs/?username=AnthonyNet&langs_count=3" height="200em" />
+    <img src="https://stats-readme-flax.vercel.app/api?username=AnthonyNet&show_icons=true&theme=transparent" height="200em" />
+  </a>
 </div>
 
 ---
